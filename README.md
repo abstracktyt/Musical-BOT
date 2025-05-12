@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://i.imgur.com/Wdel2xY.png" alt="MusicBot Logo" width="200">
   <br>
-  <a href="https://discord.gg/J6UyepXw3A" target="_blank">
+  <a href="https://discord.com/invite/xHbFhuuweg" target="_blank">
     <img src="https://img.shields.io/badge/Официальный_сервер-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Официальный сервер">
   </a>
-  <a href="https://google.com" target="_blank">
+  <a href="https://musicalbot.space/" target="_blank">
     <img src="https://img.shields.io/badge/Веб_интерфейс-00B4D8?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Веб интерфейс">
   </a>
 </div>
@@ -88,8 +88,8 @@ MusicBot - это многофункциональный музыкальный 
 
 ## 🔗 Полезные ссылки
 
-- **[Официальный сайт](https://google.com)**: Веб-интерфейс для управления ботом
-- **[Discord сервер](https://discord.gg/J6UyepXw3A)**: Официальный сервер поддержки
+- **[Официальный сайт](https://musicalbot.space/)**: Веб-интерфейс для управления ботом
+- **[Discord сервер](https://discord.com/invite/xHbFhuuweg)**: Официальный сервер поддержки
 - **[Пригласить бота](https://discord.com/oauth2/authorize?client_id=642778792217149440&guild_id=&scope=applications.commands%20bot&permissions=274881072128)**: Добавить бота на свой сервер
 
 ## 📝 Лицензия
